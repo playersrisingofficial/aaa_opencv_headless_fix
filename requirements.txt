@@ -1,1 +1,3 @@
+--force-reinstall
+--no-deps
 opencv-python-headless
