@@ -1,2 +1,2 @@
 opencv-python-headless==4.11.0.86
-huggingface_hub>=0.35
+huggingface_hub>=2.0
